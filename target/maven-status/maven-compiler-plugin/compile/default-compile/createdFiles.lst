@@ -1,0 +1,4 @@
+com/version/manager/service/AppVersionService.class
+com/version/manager/interceptor/MdcInterceptor.class
+com/version/manager/config/version/VersionProperties.class
+com/version/manager/config/web/WebConfig.class
